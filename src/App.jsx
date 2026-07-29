@@ -133,7 +133,7 @@ export default function App() {
           </a>
           <a
             className="no-underline transition hover:text-neutral-900 dark:hover:text-white"
-            href="https://discord.gg/FdvswkpeN"
+            href="https://discord.gg/vqhDEep2mN"
             target="_blank"
             rel="noreferrer"
           >
@@ -180,7 +180,7 @@ export default function App() {
             <span aria-hidden="true" className="mx-2">
               ·
             </span>
-            <FooterLink href="https://discord.gg/FdvswkpeN">Discord</FooterLink>
+            <FooterLink href="https://discord.gg/vqhDEep2mN">Discord</FooterLink>
             <span aria-hidden="true" className="mx-2">
               ·
             </span>
