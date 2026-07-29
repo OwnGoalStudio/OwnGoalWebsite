@@ -1,0 +1,2 @@
+/relaxin https://relaxin.owngoal.dev/ 302
+/relaxin/* https://relaxin.owngoal.dev/:splat 302

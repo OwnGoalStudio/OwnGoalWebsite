@@ -16,5 +16,6 @@ npm run build
 npm run deploy
 ```
 
-The Cloudflare Worker serves the Vite build at the root domain and forwards
-`/relaxin` to the existing Relaxin Worker.
+Cloudflare serves the Vite build as static assets. Legacy `/relaxin` URLs
+redirect to the Relaxin static site at
+[relaxin.owngoal.dev](https://relaxin.owngoal.dev/).
