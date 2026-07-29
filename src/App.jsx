@@ -133,6 +133,14 @@ export default function App() {
           </a>
           <a
             className="no-underline transition hover:text-neutral-900 dark:hover:text-white"
+            href="https://discord.gg/FdvswkpeN"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Discord
+          </a>
+          <a
+            className="no-underline transition hover:text-neutral-900 dark:hover:text-white"
             href="mailto:not-gonna-reply@owngoal.dev"
           >
             Contact
@@ -169,6 +177,10 @@ export default function App() {
               ·
             </span>
             <FooterLink href="https://github.com/OwnGoalStudio">GitHub</FooterLink>
+            <span aria-hidden="true" className="mx-2">
+              ·
+            </span>
+            <FooterLink href="https://discord.gg/FdvswkpeN">Discord</FooterLink>
             <span aria-hidden="true" className="mx-2">
               ·
             </span>
